@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a></h1>
 
 <h2>你好！我是七岁，是一名喜欢计算机的大学生！</h2>  
 <p>欢迎你来到我的github主页，祝你生活愉快！</p>
