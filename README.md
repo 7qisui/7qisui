@@ -1,5 +1,8 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a> </h1>
 
+<h2>你好！我是七岁，是一名喜欢计算机大学生！</h2>
+<p>欢迎你来到我的github主页，祝你生活愉快！</p>
+
  <table><tr><td><div align="left"> <img src="https://metrics.lecoq.io/7qisui?template=classic&config.timezone=Asia%2FShanghai"> </td>
 
 <td><img height="137px" src="https://github-readme-stats.vercel.app/api?username=7qisui&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </td>
