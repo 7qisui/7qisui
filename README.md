@@ -2,6 +2,10 @@
 
 <h2>你好！我是七岁，是一名喜欢计算机的大学生！</h2>  
 <p>欢迎你来到我的github主页，祝你生活愉快！</p>
+<p>如果你想联系我，下面是我的联系方式：</p>
+<p>邮箱：2776502384@qq.com</p>
+<p>微信：cyl13579200314</p>
+<p>QQ：2776502384</p>
 
  <table><tr><td><div align="left"> <img src="https://metrics.lecoq.io/7qisui?template=classic&config.timezone=Asia%2FShanghai"> </td>
 
