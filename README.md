@@ -8,7 +8,7 @@
 <p>微信：cyl13579200314</p>
 <p>电话：15385799717</p>
 
- <table><tr><td><div align="left"> <img src="https://metrics.lecoq.io/7qisui?template=classic&config.timezone=Asia%2FShanghai"> </td>
+ <table><tr><td><div align="left"> <img src="https://picb6.photophoto.cn/11/338/11338236_1.jpg" width="400" height="300"> </td>
 
 <td><img height="137px" src="https://github-readme-stats.vercel.app/api?username=7qisui&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
