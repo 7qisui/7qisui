@@ -8,6 +8,8 @@
 <p>微信：cyl13579200314</p>
 <p>电话：15385799717</p>
 
+<img width="599" height="615" alt="de9f19422876764e7b55487a418b2fdd" src="https://github.com/user-attachments/assets/03e54c3b-12e2-43f1-a687-421f8bb817b5" />
+<img width="1920" height="1230" alt="交大" src="https://github.com/user-attachments/assets/7c1e3c02-2345-4eaa-95b2-a9be85fe8a1c" />
 
 
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
