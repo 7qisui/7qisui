@@ -1,9 +1,9 @@
  <h1 align="center"> <a href="https://sunguoqi.com/"> <img
   src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a></h1>
 
-  <table>
+   <table width="100%">
     <tr>
-      <td valign="middle" width="300">
+      <td align="center" valign="middle" width="300">
         <img width="200" alt="卡通人物"
   src="https://github.com/user-attachments/assets/03e54c3b-12e2-43f1-a687-421f8bb817b5" />
       </td>
