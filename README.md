@@ -1,19 +1,30 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a></h1>
+ <h1 align="center"> <a href="https://sunguoqi.com/"> <img
+  src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到小陈的家!&center=true&size=27"> </a></h1>
 
-<h2>你好！我是七岁，是一名喜欢计算机的大学生！</h2>  
-<p>欢迎你来到我的github主页，祝你生活愉快！</p>
-<p>如果你想联系我，下面是我的联系方式：</p>
-<p>邮箱：2776502384@qq.com</p>
-<p>QQ：2776502384</p>
-<p>微信：cyl13579200314</p>
-<p>电话：15385799717</p>
+  <table>
+    <tr>
+      <td valign="middle" width="220">
+        <img width="200" alt="卡通人物"
+  src="https://github.com/user-attachments/assets/03e54c3b-12e2-43f1-a687-421f8bb817b5" />
+      </td>
+      <td valign="middle">
+        <h2>你好！我是七岁，是一名喜欢计算机的大学生！</h2>
+        <p>欢迎你来到我的github主页，祝你生活愉快！</p>
+        <p>如果你想联系我，下面是我的联系方式：</p>
+        <p>邮箱：2776502384@qq.com</p>
+        <p>QQ：2776502384</p>
+        <p>微信：cyl13579200314</p>
+        <p>电话：15385799717</p>
+      </td>
+    </tr>
+  </table>
 
-<img width="599" height="615" alt="de9f19422876764e7b55487a418b2fdd" src="https://github.com/user-attachments/assets/03e54c3b-12e2-43f1-a687-421f8bb817b5" />
-<img width="1920" height="1230" alt="交大" src="https://github.com/user-attachments/assets/7c1e3c02-2345-4eaa-95b2-a9be85fe8a1c" />
+  <img width="1920" height="1230" alt="交大"
+  src="https://github.com/user-attachments/assets/7c1e3c02-2345-4eaa-95b2-a9be85fe8a1c" />
 
+  <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img
+  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img
+  src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" /> </span>
 
-<span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7qisui)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7qisui)](https://g
+  ithub.com/ashutosh00710/github-readme-activity-graph)
