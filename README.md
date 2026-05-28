@@ -3,7 +3,7 @@
 
   <table>
     <tr>
-      <td valign="middle" width="220">
+      <td valign="middle" width="300">
         <img width="200" alt="卡通人物"
   src="https://github.com/user-attachments/assets/03e54c3b-12e2-43f1-a687-421f8bb817b5" />
       </td>
